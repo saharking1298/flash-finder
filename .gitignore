@@ -1,3 +1,6 @@
+# Custom Created Dirs
+Games/
+Logs/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
